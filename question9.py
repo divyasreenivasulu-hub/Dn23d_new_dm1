@@ -9,11 +9,11 @@ def question9_2():
     return answer
 
 def question9_3():
-    answer = 'Jaccard'
+    answer = 'Euclidean'
     return answer 
 
 def question9_4():
-    answer = 'euclidean'
+    answer = 'Cosine Similarity'
     return answer 
 
 def question9_5():
